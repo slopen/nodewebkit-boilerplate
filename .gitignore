@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+build
+bin
+temp
+*.log
+nw.zip
+nwjs.app
+nwjc
+payload
+chromedriver
+minidump_stackwalk
