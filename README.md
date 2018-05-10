@@ -8,7 +8,6 @@ ES6 / Webpack / React / NodeWebkit
 $ git clone git@github.com:slopen/nodewebkit-boilerplate.git
 $ cd nodewebkit-boilerplate
 $ yarn
-
 ```
 
 ## development
@@ -24,7 +23,6 @@ update `NW_PATH` accordingly to os/version desired
 ```
 $ chmod 777 scripts/nwget.sh
 $ yarn run nw:get
-
 ```
 
 ### livereload
